@@ -1,1 +1,6 @@
-data/
+data/cifar10/cifar10_vggfc7_gallery.mat
+data/cifar10/cifar10_vggfc7_test.mat
+data/labelme/labelme_vggfc7_gallery.mat
+data/labelme/labelme_vggfc7_test.mat
+data/SUN397/sun397_vggfc7_gallery.mat
+data/SUN397/sun397_vggfc7_test.mat
